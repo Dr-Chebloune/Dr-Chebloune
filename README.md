@@ -1,6 +1,5 @@
-- Hello everyone 👋🏽, I'm Amine Chebloune
-- I’m interested in Artificial Intelligence 
-- I’m currently learning Machine learning and ready to collaborate on Python projects
+- Hello everyone!👋🏽 I'm Amine Chebloune, An AI Enthusiast and a future Doctor
+- Currently i'm learning Machine learning and ready to collaborate on Python projects
 - Contact me on LinkedIn: Amine Chebloune
 
 <!---
